@@ -1,0 +1,15 @@
+#ignore all files in this dir...
+.idea
+.bashrc
+.bash_logout
+.viminfo
+.mozilla
+.bash_profile
+.bash_history
+.subversion
+.ssh
+.mysql_history
+
+
+#... except for this one.
+!.gitignore
