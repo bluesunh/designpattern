@@ -1,0 +1,11 @@
+{
+    "require": {
+        "dflydev/markdown": "1.0.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {"DesignPatterns\\":"DesignPatterns/"}
+    }
+}

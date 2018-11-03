@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Creational\Prototype;
+namespace DesignPatterns\Creational\Prototype\Example01;
 
 /*
  * class BookPrototype

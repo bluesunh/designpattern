@@ -9,6 +9,7 @@
 .subversion
 .ssh
 .mysql_history
+vendor
 
 
 #... except for this one.
